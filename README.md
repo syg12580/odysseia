@@ -3,8 +3,8 @@
 
 Odyssey project combines the core advantages of blockchain with driverless technology, aiming to build a transparent,   
 efficient, safe and open decentralized driverless travel platform, improve the overall performance of driverless, build the 
-infrastructure of the next generation of intelligent transportation, and lead the transformation and development of the entire 
-driverless field.
+infrastructure of the next generation of intelligent transportation, and lead the transformation and development of the 
+entire driverless field.
 
 ## Technologies
 
